@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
   info = "Digital sovereignty proponent"
   description = "Personal website of Dave Conroy"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/dc.png"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
