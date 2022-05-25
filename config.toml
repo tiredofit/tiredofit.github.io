@@ -16,7 +16,6 @@ pygmentscodefencesguesssyntax = true
   description = "Personal website of Dave Conroy"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
@@ -56,19 +55,19 @@ pygmentscodefencesguesssyntax = true
   url = "https://www.linkedin.com/daveconroy"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about"
-[[menu.main]]
-  name = "Work with me"
-  weight = 4
-  url = "work"
-[[menu.main]]
-  name = "Contact"
-  weight = 5
-  url = "contact"
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 1
+#  url  = "posts/"
+#[[menu.main]]
+#  name = "About"
+#  weight = 2
+#  url = "about"
+#[[menu.main]]
+#  name = "Work with me"
+#  weight = 4
+#  url = "work"
+#[[menu.main]]
+#  name = "Contact"
+#  weight = 5
+#  url = "contact"

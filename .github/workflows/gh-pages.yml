@@ -21,6 +21,12 @@ jobs:
           hugo-version: 'latest'
           # extended: true
 
+
+      - name: Strip Header
+        id: strip
+        run: |
+          sed "/powered_by/d" themes/hugo-coder/layout/partials/footer.html
+
       - name: Build
         run: hugo --minify
 
