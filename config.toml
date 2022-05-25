@@ -55,19 +55,7 @@ pygmentscodefencesguesssyntax = true
   url = "https://www.linkedin.com/daveconroy"
 
 # Menu links
-#[[menu.main]]
-#  name = "Blog"
-#  weight = 1
-#  url  = "posts/"
-#[[menu.main]]
-#  name = "About"
-#  weight = 2
-#  url = "about"
-#[[menu.main]]
-#  name = "Work with me"
-#  weight = 4
-#  url = "work"
-#[[menu.main]]
-#  name = "Contact"
-#  weight = 5
-#  url = "contact"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about"
