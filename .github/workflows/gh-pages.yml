@@ -25,7 +25,8 @@ jobs:
       - name: Strip Header
         id: strip
         run: |
-          sed -i "/powered_by/d" themes/hugo-coder/layouts/partials/footer.html
+#          sed -i "/powered_by/d" themes/hugo-coder/layouts/partials/footer.html
+           echo '' > themes/hugo-coder/layouts/partials/footer.html  
 
       - name: Build
         run: hugo --minify
