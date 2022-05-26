@@ -5,7 +5,7 @@ draft: false
 keywords: sponsor,github sponsors,patreon,donate,support
 ---
 
-You must have come here from some work I have done in open source. The work I release to the public is based on my own personal needs and many times providing enhancements based on feedback of otheres using my solutions. 
+You must have come here from some work I have done in open source. The work I release to the public is based on my own personal needs and many times providing enhancements based on feedback of others using my solutions. 
 
 If yiou like what I do, sponsoring my work will get quicker updates, priority bug fixes, and more likelyhood for features that were not apart of my needs to be built.
 
